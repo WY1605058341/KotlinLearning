@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinLearning">
+        <activity android:name=".ClassObjectActivity"></activity>
+        <activity android:name=".LoopActivity" />
+        <activity android:name=".ConditionActivity" />
+        <activity android:name=".FunActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
